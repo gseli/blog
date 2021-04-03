@@ -9,7 +9,7 @@ tags:
 ---
 In 2015 I moved in with my now husband Robert and in the course of almost 6 years so many things have happened in my life.
 
-I got married, moved houses 2 times, addopted a dog, had a brief streaming career, discovered I have ADHD, changed jobs and took very serious my life career, which will be the main topics of future post.
+I got married, moved houses 2 times, adopted a dog, had a brief streaming career, discovered I have ADHD, changed jobs and took very serious my life career, which will be the main topics of future post.
 
 Naturally with all these changes in my life and the different focus I had over the years, I've amassed a very diverse amount of stuff that go from lighting sets (my streamer period) to jewelry making equipment.
 
