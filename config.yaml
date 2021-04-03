@@ -38,7 +38,7 @@ params:
         subtitle: Full time creative, part time magical.
         avatar:
             local: true
-            src: img/avatar.png
+            src: img/eli.png
 
     article:
         math: false
