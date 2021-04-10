@@ -2,9 +2,14 @@
 title: Skin texturing renders
 image: wireframe_08.png
 date: 2021-04-10T22:54:46.616Z
-draft: true
-tags: []
-categories: []
+draft: false
+tags:
+  - substance
+  - marmoset
+  - tttc
+categories:
+  - texturing
+  - 3d
 ---
 Hey there everyone! 
 
