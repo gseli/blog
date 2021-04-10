@@ -1,33 +1,28 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: Elizabeth Solis Graniel
+date: 2021-04-10T23:14:49.690Z
 aliases:
-  - about-us
-  - about-hugo
+  - about-me
   - contact
+  - ""
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: 2020-10-09
 menu:
-    main: 
-        weight: -90
-        pre: user
+  main:
+    weight: -90
+    pre: user
 ---
+My name is Elizabeth Solis Graniel; welcome to my blog!
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 
-Hugo makes use of a variety of open source projects including:
+Since I was very young, I've had two significant interests: videogames and art. I cannot remember a time in my life when either of those has not been present.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+I aim to become a Character Artist, a career that involves both my passions and to take part in creating engaging digital experiences.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+For me, technique and technology follow ideas, feelings, and intentions. 
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+I'm a very energetic and intense individual who would instead tackle big challenges than give up without trying, people know me for being a bit of a bulldozer sometimes, but I take that as a compliment✨
