@@ -3,9 +3,8 @@ title: About
 description: Elizabeth Solis Graniel
 date: 2021-04-10T23:14:49.690Z
 aliases:
-  - about-me
+  - about-us
   - contact
-  - ""
 license: CC BY-NC-ND
 lastmod: 2020-10-09
 menu:
